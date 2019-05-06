@@ -1,0 +1,14 @@
+{
+  "name": "mac-volume",
+  "version": "2019.5.6",
+  "description": "macOS volume",
+  "keywords": [
+    "volume"
+  ],
+  "homepage": "https://github.com/looking-for-a-job/mac-volume",
+  "license": "Unlicense",
+  "bin": {
+    ".volume.applescript": "./scripts/.volume.applescript",
+    "volume": "./scripts/volume"
+  }
+}
