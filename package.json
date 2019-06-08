@@ -8,7 +8,11 @@
   "homepage": "https://github.com/looking-for-a-job/mac-volume",
   "license": "Unlicense",
   "bin": {
+    ".mute.applescript": "./scripts/.mute.applescript",
+    ".unmute.applescript": "./scripts/.unmute.applescript",
     ".volume.applescript": "./scripts/.volume.applescript",
+    "mute": "./scripts/mute",
+    "unmute": "./scripts/unmute",
     "volume": "./scripts/volume"
   }
 }
