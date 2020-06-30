@@ -1,26 +1,22 @@
 <!--
-https://pypi.org/project/readme-generator/
-https://pypi.org/project/python-readme-generator/
+https://readme42.com
 -->
 
-[![](https://img.shields.io/badge/OS-macOS-blue.svg?longCache=True)]()
-[![](https://img.shields.io/badge/language-AppleScript-blue.svg?longCache=True)]()
-[![](https://img.shields.io/pypi/v/mac-volume.svg?maxAge=3600)](https://pypi.org/project/mac-volume/)
-[![](https://img.shields.io/npm/v/mac-volume.svg?maxAge=3600)](https://www.npmjs.com/package/mac-volume)
-[![Travis](https://api.travis-ci.org/looking-for-a-job/mac-volume.svg?branch=master)](https://travis-ci.org/looking-for-a-job/mac-volume/)
 
-#### Installation
-```bash
-$ [sudo] npm i -g mac-volume
-```
+
+[![](https://img.shields.io/badge/OS-Unix-blue.svg?longCache=True)]()
+[![](https://img.shields.io/pypi/v/mac-volume.svg?maxAge=3600)](https://pypi.org/project/mac-volume/)
+[![](https://img.shields.io/npm/v/mac-volume.svg?maxAge=3600)](https://www.npmjs.com/package/mac-volume)[![](https://img.shields.io/badge/License-Unlicense-blue.svg?longCache=True)](https://unlicense.org/)
+[![](https://github.com/andrewp-as-is/mac-volume/workflows/tests42/badge.svg)](https://github.com/andrewp-as-is/mac-volume/actions)
+
+### Installation
 ```bash
 $ [sudo] pip install mac-volume
 ```
 
-#### Scripts usage
-command|`usage`
--|-
-`volume` |`usage: volume [volume]`
+```bash
+$ [sudo] npm i -g mac-volume
+```
 
 #### Examples
 ```bash
@@ -30,5 +26,5 @@ $ volume
 ```
 
 <p align="center">
-    <a href="https://pypi.org/project/python-readme-generator/">python-readme-generator</a>
+    <a href="https://readme42.com/">readme42.com</a>
 </p>
